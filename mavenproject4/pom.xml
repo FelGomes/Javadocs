@@ -10,7 +10,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>23</maven.compiler.release>
-        <exec.mainClass>com.mycompany.trabalhosacademicos.TrabalhosAcademicos</exec.mainClass>
+        <exec.mainClass>documentacao</exec.mainClass>
     </properties>
 
     <build>
